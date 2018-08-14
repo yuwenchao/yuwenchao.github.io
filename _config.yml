@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenchao Yu's Homepage"
+title                    : # "Wenchao Yu's Homepage"
 title_separator          : "-"
 name                     : &name "Wenchao Yu"
 description              : &description "Wenchao Yu's Homepage @ UCLA"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Wenchao Yu"
   avatar           : "profile.png"
-  bio              : "University of California, Los Angeles"
+  bio              : "Ph.D. Candidate at University of California, Los Angeles"
   location         : "Los Angeles"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ijP_JzgAAAAJ"
