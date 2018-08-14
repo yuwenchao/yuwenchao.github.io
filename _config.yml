@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenchao Yu / University of California Los Angeles"
+title                    : "Wenchao Yu's Homepage"
 title_separator          : "-"
 name                     : &name "Wenchao Yu"
 description              : &description "Wenchao Yu's Homepage @ UCLA"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Wenchao Yu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "University of California, Los Angeles"
   location         : "Los Angeles"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ijP_JzgAAAAJ"
-  email            :
+  email            : "yuwenchao@ucla.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "yuwenchao"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
