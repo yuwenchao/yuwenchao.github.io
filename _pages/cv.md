@@ -9,23 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+Also available in <a href=''>PDF</a> format.
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D. in Computer Science, University of California Los Angeles, 2019 (Expected)
+* M.S. in Computer Science, Institute of Computing Technology, Chinese Academy of Sciences, 2014
+* B.Eng. in Software Engineering, Wuhan University, 2011
 
-Work experience
+Research and Project Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, University of California Los Angeles, Sept. 2014
+  * Modeling co-evolution across multiple networks. Work published in SDM
+    * Proposed a shared temporal matrix factorization framework to model co-evolution across multiple networks.
+    * Demonstrated the benefits of this approach on the tasks including cross-network link prediction and community detection.
+  * Link prediction with spatial and temporal consistency in dynamic networks. Work published in IJCAI
+    * Proposed a link prediction model with spatial and temporal consistency, to predict links in a sequence of networks over time.
+    * The proposed model characterized the network dynamics as a function of time, which integrates the spatial topology of network at each timestamp and the temporal network evolution. Advertiser competition analysis in search advertising. Work published in ICDM
+  * Modeled the advertiser competition network, and explored the relationship between competition network and search provider’s revenue
   
 Skills
 ======
