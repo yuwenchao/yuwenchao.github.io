@@ -28,6 +28,18 @@ Research and Project Experience
     * The proposed model characterized the network dynamics as a function of time, which integrates the spatial topology of network at each timestamp and the temporal network evolution. Advertiser competition analysis in search advertising. Work published in ICDM
   * Modeled the advertiser competition network, and explored the relationship between competition network and search provider’s revenue
   
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Skill 1
@@ -37,24 +49,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Service
 ======
 * Currently signed in to 43 different slack teams
