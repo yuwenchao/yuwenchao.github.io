@@ -260,6 +260,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-last-modified-at
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
