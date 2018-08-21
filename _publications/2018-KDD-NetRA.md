@@ -6,7 +6,7 @@ excerpt: 'The problem of network representation learning, also known as network 
 date: 2018-08-23
 venue: 'Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3220000'
-citation: 'Yu, Wenchao, Cheng Zheng, Wei Cheng, Charu C. Aggarwal, Dongjin Song, Bo Zong, Haifeng Chen, and Wei Wang. In <i>Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining</i> <b>(KDD)</b>, pp. 2663-2671. ACM, 2018.'
+citation: '<b>Yu, Wenchao</b>, Cheng Zheng, Wei Cheng, Charu C. Aggarwal, Dongjin Song, Bo Zong, Haifeng Chen, and Wei Wang. In <i>Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining <b>(KDD)</b></i>, pp. 2663-2671. ACM, 2018.'
 ---
 
 [Download paper here]('2018-KDD-NetRA.pdf')
