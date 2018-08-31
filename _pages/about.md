@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Wenchao Yu is a Ph.D. candidate in the Department of Computer Science at University of California, Los Angeles, supervised by Professor [Wei Wang](http://web.cs.ucla.edu/~weiwang/). He received a B.S. degree from Wuhan University in 2011, and a M.S. degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2014. He was a data mining research intern at the HP Labs China and IBM T. J. Watson Research Center in 2013 and 2015 respectively. Wenchao Yu's research interests include information network analysis, big data, data mining and machine learning. He has published several research papers in international journals and major peer-reviewed conference proceedings such as SIGKDD, IJCAI, SDM, WSDM and ICDM.
+
+<!-- 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -48,3 +52,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
