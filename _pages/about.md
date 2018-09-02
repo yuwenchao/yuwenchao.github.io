@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Wenchao Yu is a Ph.D. candidate in the Department of Computer Science at University of California, Los Angeles, supervised by Professor [Wei Wang](http://web.cs.ucla.edu/~weiwang/). He received a B.S. degree from Wuhan University in 2011, and a M.S. degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2014. He was a data mining research intern at the HP Labs China and IBM T. J. Watson Research Center in 2013 and 2015 respectively. Wenchao Yu's research interests include information network analysis, big data, data mining and machine learning. He has published several research papers in international journals and major peer-reviewed conference proceedings such as SIGKDD, IJCAI, SDM, WSDM and ICDM.
+Under construction
+
+<!-- Wenchao Yu is a Ph.D. candidate in the Department of Computer Science at University of California, Los Angeles, supervised by Professor [Wei Wang](http://web.cs.ucla.edu/~weiwang/). He received a B.S. degree from Wuhan University in 2011, and a M.S. degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2014. He was a data mining research intern at the HP Labs China and IBM T. J. Watson Research Center in 2013 and 2015 respectively. Wenchao Yu's research interests include information network analysis, big data, data mining and machine learning. He has published several research papers in international journals and major peer-reviewed conference proceedings such as SIGKDD, IJCAI, SDM, WSDM and ICDM. -->
 
 <!-- 
 
